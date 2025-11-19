@@ -8,7 +8,7 @@
 
 ## Summary  
 I’m a full-stack engineer specializing in **AI/ML**, intelligent systems, and scalable backend architecture.  
-Currently studying **Computer Science @ UT Dallas ** while building production-grade systems in  
+Currently studying **Computer Science @ UT Dallas** while building production-grade systems in  
 **FastAPI, React, Nuxt.js, Express.js, MongoDB, Prisma, PyTorch, and LLM pipelines**.
 
 I love merging clean engineering with powerful AI reasoning to build tools that *actually* solve problems.
