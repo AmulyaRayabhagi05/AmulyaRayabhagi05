@@ -6,9 +6,9 @@
 
 ---
 
-## Summary  
-I’m a full-stack engineer specializing in **AI/ML**, intelligent systems, and scalable backend architecture.  
-Currently studying **Computer Science @ UT Dallas** while building production-grade systems in  
+## HI!  
+Hello, I’m a full-stack engineer specializing in **AI/ML**, intelligent systems, and scalable backend architecture.  
+Currently studying **Computer Science ** while building production-grade systems in  
 **FastAPI, React, Nuxt.js, Express.js, MongoDB, Prisma, PyTorch, and LLM pipelines**.
 
 I love merging clean engineering with powerful AI reasoning to build tools that *actually* solve problems.
@@ -33,6 +33,14 @@ I love merging clean engineering with powerful AI reasoning to build tools that 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amulyarayabhagi05&theme=dark&show_icons=true&count_private=true" />
 </p>
+
+---
+
+##  Experience  
+### ERP Security Administration — UT Dallas  
+- Managed IAM provisioning & security compliance  
+- Resolved 500+ access/security tickets  
+- Supported PeopleSoft, HCM, FMS under SDLC governance  
 
 ---
 
@@ -62,14 +70,6 @@ Collaborative filtering + LLM dietary analysis.
 - 89.20% accuracy dietary-matching  
 - Group preference aggregation  
 - Chatbot for dietary inquiries
-
----
-
-##  Experience  
-### ERP Security Administration — UT Dallas  
-- Managed IAM provisioning & security compliance  
-- Resolved 500+ access/security tickets  
-- Supported PeopleSoft, HCM, FMS under SDLC governance  
 
 ---
 
