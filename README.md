@@ -29,13 +29,6 @@ I love merging clean engineering with powerful AI reasoning to build tools that 
 
 ---
 
-## GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amulyarayabhagi05&theme=dark&show_icons=true&count_private=true" />
-</p>
-
----
-
 ##  Experience  
 ### ERP Security Administration — UT Dallas  
 - Managed IAM provisioning & security compliance  
