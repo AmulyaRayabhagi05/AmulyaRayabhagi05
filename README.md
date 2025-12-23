@@ -71,8 +71,8 @@ Collaborative filtering + LLM dietary analysis.
   <a href="https://www.linkedin.com/in/amulya-rayabhagi/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/AmulyaRayabhagi05">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://amulyarayabhagi.wixsite.com/personal-portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio_Site-FF4400?style=for-the-badge&logo=web&logoColor=white">
   </a>
 </p>
 
